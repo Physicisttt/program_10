@@ -3,16 +3,6 @@
 
 using namespace std;
 
-int summ(int a, int b)
-{
-	return a + b;
-}
-
-int multi(int a, int b)
-{
-	return a * b;
-}
-
 int main(void)
 {
 	int result;

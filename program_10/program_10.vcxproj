@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="functions_prog10.cpp" />
     <ClCompile Include="programm_10.cpp" />
   </ItemGroup>
   <ItemGroup>
