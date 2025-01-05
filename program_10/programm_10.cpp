@@ -1,4 +1,5 @@
 #include <iostream>
+#include "functions_prog10.h"
 
 using namespace std;
 
